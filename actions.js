@@ -1,0 +1,1 @@
+export const animAction = (ref) => (animType) => ({type: 'ANIM', animType, ref})
